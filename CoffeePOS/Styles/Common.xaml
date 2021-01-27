@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:CoffeePOS.Styles">
+
+    <!--Colors-->
+    <Color x:Key="ColorPrimary1">#E77719</Color>
+    <Color x:Key="ColorPrimary2">#2E383F</Color>
+    <Color x:Key="ColorPrimary3">#38434a</Color>
+    
+
+    <SolidColorBrush x:Key="BrushPrimary1" Color="{StaticResource ColorPrimary1}"/>
+    <SolidColorBrush x:Key="BrushPrimary2" Color="{StaticResource ColorPrimary2}"/>
+    <SolidColorBrush x:Key="BrushPrimary3" Color="{StaticResource ColorPrimary3}"/>
+</ResourceDictionary>
